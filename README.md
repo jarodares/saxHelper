@@ -14,5 +14,4 @@ I'll be including tips to some "brick walls" I've found along the way to learn p
 
 ### Contact
 
-If you had any suggestion about saxHelper or find something that isn't quite right.
-[email](jrob.valladares@gmail.com)
+Built by [jarodares](https://twitter.com/jarodares)
